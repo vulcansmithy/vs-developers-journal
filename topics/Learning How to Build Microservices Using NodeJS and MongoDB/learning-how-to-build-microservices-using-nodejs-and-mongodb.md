@@ -295,3 +295,15 @@
     - https://masteringjs.io/tutorials/mongoose/objectid
 
       
+
+- To convert a string ID to `mongoose.schemaType.ObjectID`, you need to cast the string into an ObjectID
+
+  - ```javascript
+    ...
+    BookID: mongoose.Types.ObjectID(req.body.BookID)
+    ...
+    ```
+
+    
+
+  
