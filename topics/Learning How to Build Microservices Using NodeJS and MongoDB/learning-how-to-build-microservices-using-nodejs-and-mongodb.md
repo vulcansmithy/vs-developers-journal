@@ -271,3 +271,8 @@
     ```
 
     
+
+
+
+- `reques` package is something similar to HTTParty gem on the ruby side. Note: According to the package page, this is already deprecated.
+- 
