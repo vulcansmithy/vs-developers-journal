@@ -275,4 +275,23 @@
 
 
 - `reques` package is something similar to HTTParty gem on the ruby side. Note: According to the package page, this is already deprecated.
-- 
+
+  
+
+- ```javascript
+  mongoose.model("Order"), {
+    CustomerID: {
+      type: mongoose.SchemaType.ObjectID,
+      required: true    
+    },
+  	....
+  })
+  ```
+
+  - `Mongoose.SchemaType.ObjectID` is a special type that identify the field as an ID. This ID is actually an object. 
+
+  - Notable Links
+
+    - https://masteringjs.io/tutorials/mongoose/objectid
+
+      
