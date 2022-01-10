@@ -309,4 +309,7 @@
 - [Youtube: Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
 
   - [Source repo:  github.com/dev-mastery/comments-api](https://github.com/dev-mastery/comments-ap)
-  - 
+  
+  - [Downloaded Youtube video](https://github.com/vulcansmithy/vs-developers-journal/blob/master/topics/Learning%20How%20to%20Build%20Microservices%20Using%20NodeJS%20and%20MongoDB/resources/Using%20Clean%20Architecture%20for%20Microservice%20APIs%20in%20Node.js%20with%20MongoDB%20and%20Express.mp4)
+  
+    
