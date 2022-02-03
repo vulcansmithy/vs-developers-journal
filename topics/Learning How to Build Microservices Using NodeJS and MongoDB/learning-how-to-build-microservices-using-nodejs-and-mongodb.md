@@ -317,9 +317,21 @@
 
 ------
 
-**Date:** 2/3/2022
+### Date
 
-**Tag:** #RESTful #webservices #api
+```
+2/3/2022
+```
+
+
+
+### Tags
+
+```
+ #RESTful #webservices #api
+```
+
+
 
 List of accessable Web Services 
 
@@ -333,9 +345,21 @@ List of accessable Web Services
 
 ------
 
-**Date:** [Same as above]
+### Date
 
-**Tag:** #webservices #developmenttools #mocks
+```
+*** Same as above ***
+```
+
+
+
+### Tags
+
+```
+#webservices #developmenttools #mocks
+```
+
+
 
 Notable links to found webservices development tools, specifically mocking API endpoints
 
@@ -343,3 +367,32 @@ Notable links to found webservices development tools, specifically mocking API e
 - https://mockend.com
 - https://jsonplaceholder.typicode.com
 - https://instantwebtools.net/fake-rest-api
+
+------
+
+### Date
+
+```
+*** Same as above ***
+```
+
+
+
+### Taga
+
+```
+ #codingchallenge #codingexercise 
+```
+
+
+
+# Coding Challege
+
+The target is to build a Node.JS app boilerplate During the building of this API
+I should be able to
+
+- use packages for creating endpoints
+- use packages for calling requests from other APIs
+- use packages to create data persistence i.e. mongoose
+- use packages to establish API authentication
+
