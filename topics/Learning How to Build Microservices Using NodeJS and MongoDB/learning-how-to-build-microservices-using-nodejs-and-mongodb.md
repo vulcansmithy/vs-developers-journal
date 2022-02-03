@@ -302,8 +302,9 @@
     ...
     BookID: mongoose.Types.ObjectID(req.body.BookID)
     ...
+    
     ```
-
+    
     
 
 - [Youtube: Using Clean Architecture for Microservice APIs in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U)
@@ -313,3 +314,32 @@
   - [Downloaded Youtube video](https://github.com/vulcansmithy/vs-developers-journal/blob/master/topics/Learning%20How%20to%20Build%20Microservices%20Using%20NodeJS%20and%20MongoDB/resources/Using%20Clean%20Architecture%20for%20Microservice%20APIs%20in%20Node.js%20with%20MongoDB%20and%20Express.mp4)
   
     
+
+------
+
+**Date:** 2/3/2022
+
+**Tag:** #RESTful #webservices #api
+
+List of accessable Web Services 
+
+- [TinyURL API](https://tinyurl.com/app/dev)
+- [coinlayer](https://coinlayer.com/documentation)
+- [Google Time Zone API]([Time Zone API](https://developers.google.com/maps/documentation/timezone))
+- [Coin API](https://docs.coinapi.io/?python#metadata)
+- [Bitly API](https://dev.bitly.com/docs/getting-started/introduction/)
+- [OMDb API, The Open Movie Database](https://www.omdbapi.com)
+- [zipcodeapi.com](https://www.zipcodeapi.com/API)
+
+------
+
+**Date:** [Same as above]
+
+**Tag:** #webservices #developmenttools #mocks
+
+Notable links to found webservices development tools, specifically mocking API endpoints
+
+- https://mockapi.io
+- https://mockend.com
+- https://jsonplaceholder.typicode.com
+- https://instantwebtools.net/fake-rest-api
