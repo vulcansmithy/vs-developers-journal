@@ -1,6 +1,6 @@
 # Ruby on Rails Notes
 
-### BLUF
+### BLUF (Bottom Line Up Front)
 
 ```
 A link to an article about enabling UUID on your RoR app through Postgresql
